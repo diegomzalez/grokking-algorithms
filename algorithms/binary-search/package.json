@@ -1,0 +1,13 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/src/",
+    "dev": "ts-node src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
