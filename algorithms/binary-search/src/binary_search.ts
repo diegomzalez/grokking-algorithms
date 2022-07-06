@@ -1,7 +1,7 @@
 "use strict";
 import { get_mid } from "./get_mid";
 /**
- * This function uses the Binary Search algorithm, to search an gave element.
+ * This function uses the Binary Search algorithm, to search an given element.
  * @param data Where the element will be search.
  * @param element The element to be search.
  * @returns The position on data where element is.

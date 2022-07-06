@@ -1,0 +1,8 @@
+EXERCISES
+1.1 Suppose you have a sorted list of 128 names, and you’re searching
+through it using binary search. What’s the maximum number of
+steps it would take?
+1.1 R: It would take 7 steps, because we have log 128 and its result is 7.
+1.2 Suppose you double the size of the list. What’s the maximum
+number of steps now?
+1.2 R: It would take 8 steps, because we have log 256 and its result is 8.
