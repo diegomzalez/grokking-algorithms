@@ -6,6 +6,6 @@
  * @returns The mid number
  */
 export const get_mid = (low: number, high: number): number => {
-  const mid_formula = (low + high / 2).toFixed();
-  return Number(mid_formula);
+  const mid_formula = Math.round(low + high / 2);
+  return mid_formula;
 };
